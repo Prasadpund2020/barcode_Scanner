@@ -1,0 +1,28 @@
+:root {
+  --ink: #0e0f13;
+  --ink-2: #16181e;
+  --line: #262830;
+  --line-2: #2c2f3a;
+  --text: #e9e7df;
+  --muted: #b4b7c2;
+  --muted-2: #a5a8b3;
+  --accent: #c8ff3d;
+  --paper: #f2efe6;
+  --paper-ink: #15161a;
+  --paper-muted: #4a4c55;
+  --paper-line: #b9b5a6;
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 24px;
+  --r-xl: 28px;
+  --r-pill: 999px;
+  --shadow-hard: 12px 12px 0 var(--accent);
+  --container: 1280px;
+  --gutter: 40px;
+}
+
+@media (max-width: 720px) {
+  :root {
+    --gutter: 20px;
+  }
+}

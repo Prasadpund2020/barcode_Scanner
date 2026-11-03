@@ -1,0 +1,8 @@
+# humanstxt.org
+
+Scannow
+
+Site: https://scannow.example
+Contact: [YOUR EMAIL]
+
+This site is built for generating QR codes and scanning QR or barcode codes in the browser.

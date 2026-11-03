@@ -1,0 +1,14 @@
+# Scannow
+
+Scannow helps you generate QR codes and scan QR or barcode data using a browser. It works without sign-up, keeps scanning local on the device, and supports common formats like QR, Code 128, EAN-13, UPC-A, ITF and more.
+
+## Key pages
+- /: Free QR code generator and barcode scanner for browser-based creation and reading.
+- /qr-code-generator: Build a custom QR code for URLs, text, Wi‑Fi, vCards and UPI links.
+- /barcode-generator: Create Code 128, EAN-13, UPC-A and other barcodes with downloadable vectors.
+- /qr-code-scanner: Scan online with a camera or uploaded image without sending data anywhere.
+- /barcode-scanner-online: Read 1D codes that many phone cameras miss, including Code 128 and EAN-13.
+- /about: Learn about Scannow, its purpose and contact details.
+
+## Brand
+Scannow is a free browser-based QR code and barcode toolkit. The tagline is “Make codes. Read any code.”
