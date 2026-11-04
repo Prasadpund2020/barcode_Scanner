@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import { Bricolage_Grotesque, Inter, JetBrains_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 
 import { BRAND } from "@/lib/brand";
 import { buildSiteJsonLd } from "@/lib/schema";
@@ -87,6 +88,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
             __html: JSON.stringify(buildSiteJsonLd()),
           }}
         />
+        <Analytics />
       </body>
     </html>
   );

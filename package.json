@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "bwip-js": "^4.11.4",
     "next": "16.4.4",
     "qr-code-styling": "^1.9.2",
